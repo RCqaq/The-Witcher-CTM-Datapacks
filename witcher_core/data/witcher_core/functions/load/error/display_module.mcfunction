@@ -1,1 +1,1 @@
-tellraw @a {"translate":"datapack.core.error.display"}
+tellraw @a {"translate":"datapack.core.error.display", "color": "red"}
