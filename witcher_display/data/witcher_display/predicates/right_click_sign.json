@@ -1,0 +1,28 @@
+[
+  {
+    "condition": "minecraft:entity_properties",
+    "entity": "this",
+    "predicate": 
+    {
+     "equipment": 
+      {
+       "mainhand": 
+        {
+          "item": "minecraft:carrot_on_a_stick",
+          "nbt": "{isSign:1b}"
+        }
+      }
+    }
+  },
+  {
+    "condition": "minecraft:entity_scores",
+    "entity": "this",
+    "scores": 
+    {
+      "w.right_click" :
+      {
+        "min":1
+      }
+    }
+  }
+]

@@ -1,0 +1,26 @@
+{
+  "__comment" : " ",
+  "criteria": 
+  {
+    "eat_food":
+    {
+      "trigger": "minecraft:consume_item",
+      "conditions": 
+      {
+        "item": 
+        {
+          "tag": "minecraft:lesser_food",
+          "count":
+          {
+            "min":1,
+            "max":64
+          }
+        }
+      }
+    }
+  },
+  "rewards": 
+  {
+    "function": "witcher_combat:food_tweak/eat_lesser_food"
+  }
+}

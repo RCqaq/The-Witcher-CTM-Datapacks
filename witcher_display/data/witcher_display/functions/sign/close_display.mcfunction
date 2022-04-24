@@ -1,0 +1,1 @@
+execute at @e[tag=sign_display_marker,sort=nearest] run kill @e[tag=sign_display, distance=..4]

@@ -1,0 +1,24 @@
+{
+  "__comment" : " ",
+  "criteria": 
+  {
+    "select_sign": 
+    {
+      "trigger": "minecraft:inventory_changed",
+      "conditions": 
+      {
+        "items":
+        [
+          {
+            "item": "minecraft:carrot_on_a_stick",
+            "nbt": "{isAard:1b}"
+          } 
+        ]
+      }
+    }
+  },
+  "rewards": 
+  {
+    "function": "witcher_display:sign/select_sign_aard"
+  }
+}

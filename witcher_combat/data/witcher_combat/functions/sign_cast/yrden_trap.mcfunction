@@ -1,0 +1,2 @@
+#Retrieve sign
+give @s minecraft:carrot_on_a_stick{CustomModelData:5,HideFlags:4,Unbreakable:1b,isSign:1b,isYrden:1b,display:{Name:'{"translate":"item.sign.yrden.name","color":"light_purple","bold":"true","italic":"false"}',Lore:['[{"translate":"item.sign.yrden.lore1","color":"dark_purple","italic":"false"}]','[{"translate":"item.sign.yrden.lore2","color":"gray","bold":"true"}]']}} 1

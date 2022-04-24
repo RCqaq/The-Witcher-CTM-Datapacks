@@ -1,0 +1,2 @@
+#Retrieve sign
+give @s minecraft:carrot_on_a_stick{CustomModelData:3,HideFlags:4,Unbreakable:1b,isSign:1b,isAxii:1b,display:{Name:'{"translate":"item.sign.axii.name","color":"green","bold":"true","italic":"false"}',Lore:['[{"translate":"item.sign.axii.lore1","color":"dark_green","italic":"false"}]','[{"translate":"item.sign.axii.lore2","color":"gray","bold":"true"}]']}} 1

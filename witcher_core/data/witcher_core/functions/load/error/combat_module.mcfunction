@@ -1,0 +1,1 @@
+tellraw @a {"translate":"datapack.core.error.combat"}

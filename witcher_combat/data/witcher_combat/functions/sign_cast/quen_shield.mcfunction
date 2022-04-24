@@ -1,0 +1,2 @@
+#Retrieve sign
+give @s minecraft:carrot_on_a_stick{CustomModelData:4,HideFlags:4,Unbreakable:1b,isSign:1b,isQuen:1b,display:{Name:'{"translate":"item.sign.quen.name","color":"yellow","bold":"true","italic":"false"}',Lore:['[{"translate":"item.sign.quen.lore1","color":"gold","italic":"false"}]','[{"translate":"item.sign.quen.lore2","color":"gray","bold":"true"}]']}} 1
