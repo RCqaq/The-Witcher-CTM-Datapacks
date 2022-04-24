@@ -1,4 +1,4 @@
-execute at @e[tag=sign_display_marker, distance=..3] run summon minecraft:area_effect_cloud ^ ^1.2 ^ {Duration:200000,CustomNameVisible:1b,CustomName:'{"translate":"entity.display.sign.title","bold":"true"}',Tags:["sign_display"]}
+execute at @e[tag=sign_display_marker, distance=..3] run summon minecraft:area_effect_cloud ^ ^1.2 ^ {Duration:200000,CustomNameVisible:1b,CustomName:'{"translate":"entity.display.sign.title","bold":true}',Tags:["sign_display"]}
 
 execute at @e[tag=sign_display_marker, distance=..3] run summon minecraft:area_effect_cloud ^-1.6 ^0.8 ^-0.2 {Duration:200000,CustomNameVisible:1b,CustomName:'{"translate":"entity.display.sign.aard","color":"blue"}',Tags:["sign_display"]}
 execute at @e[tag=sign_display_marker, distance=..3] run summon minecraft:area_effect_cloud ^-0.8 ^0.8 ^0.2 {Duration:200000,CustomNameVisible:1b,CustomName:'{"translate":"entity.display.sign.axii","color":"green"}',Tags:["sign_display"]}
